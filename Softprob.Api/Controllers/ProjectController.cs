@@ -2,11 +2,15 @@
 
 namespace Softprob.Api.Controllers
 {
-    public class ProjectController : Controller
+    [ApiController]
+    [Route("[controller]")]
+    public class ProjectController : ControllerBase
     {
-        public IActionResult Index()
+        [HttpGet(Name = "GetProjectListing")]
+        public IActionResult GetProjectListing()
         {
-            return View();
+
+            return Ok(new[] { "Working" });
         }
     }
 }
