@@ -2,8 +2,8 @@
 
 namespace Softprob.Api.Controllers
 {
+    [Route("api/[controller]")]
     [ApiController]
-    [Route("[controller]")]
     public class ProjectController : ControllerBase
     {
         [HttpGet(Name = "GetProjectListing")]

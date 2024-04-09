@@ -13,6 +13,7 @@ namespace Softprob.Persistence.Context
         DbSet<ProjectTool> ProjectTools { get; set; }
         public DbSet<Tool> Tools { get; set; }
         public DbSet<Technology> Technologies { get; set; }
+        public DbSet<User> Users { get; set; }
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options):base(options)
         {                        
            
