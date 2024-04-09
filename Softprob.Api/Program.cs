@@ -1,5 +1,7 @@
+ 
 using Softprob.Application;
 using Softprob.Infrastructure;
+using Softprob.Middlewares;
 using Softprob.Persistence;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -25,6 +27,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseMiddleware<ExceptionHandlerMiddleware>();
 
 app.UseHttpsRedirection();
 
