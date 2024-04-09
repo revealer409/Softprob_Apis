@@ -1,0 +1,17 @@
+D:\MY Work\2024 vision\SoftProb\NET\APIS\Softprob\Softprob.Persistence\bin\Debug\net8.0\Softprob.Persistence.deps.json
+D:\MY Work\2024 vision\SoftProb\NET\APIS\Softprob\Softprob.Persistence\bin\Debug\net8.0\Softprob.Persistence.dll
+D:\MY Work\2024 vision\SoftProb\NET\APIS\Softprob\Softprob.Persistence\bin\Debug\net8.0\Softprob.Persistence.pdb
+D:\MY Work\2024 vision\SoftProb\NET\APIS\Softprob\Softprob.Persistence\bin\Debug\net8.0\Softprob.Application.dll
+D:\MY Work\2024 vision\SoftProb\NET\APIS\Softprob\Softprob.Persistence\bin\Debug\net8.0\Softprob.Domain.dll
+D:\MY Work\2024 vision\SoftProb\NET\APIS\Softprob\Softprob.Persistence\bin\Debug\net8.0\Softprob.Application.pdb
+D:\MY Work\2024 vision\SoftProb\NET\APIS\Softprob\Softprob.Persistence\bin\Debug\net8.0\Softprob.Domain.pdb
+D:\MY Work\2024 vision\SoftProb\NET\APIS\Softprob\Softprob.Persistence\obj\Debug\net8.0\Softprob.Persistence.csproj.AssemblyReference.cache
+D:\MY Work\2024 vision\SoftProb\NET\APIS\Softprob\Softprob.Persistence\obj\Debug\net8.0\Softprob.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY Work\2024 vision\SoftProb\NET\APIS\Softprob\Softprob.Persistence\obj\Debug\net8.0\Softprob.Persistence.AssemblyInfoInputs.cache
+D:\MY Work\2024 vision\SoftProb\NET\APIS\Softprob\Softprob.Persistence\obj\Debug\net8.0\Softprob.Persistence.AssemblyInfo.cs
+D:\MY Work\2024 vision\SoftProb\NET\APIS\Softprob\Softprob.Persistence\obj\Debug\net8.0\Softprob.Persistence.csproj.CoreCompileInputs.cache
+D:\MY Work\2024 vision\SoftProb\NET\APIS\Softprob\Softprob.Persistence\obj\Debug\net8.0\Softprob.Persistence.csproj.CopyComplete
+D:\MY Work\2024 vision\SoftProb\NET\APIS\Softprob\Softprob.Persistence\obj\Debug\net8.0\Softprob.Persistence.dll
+D:\MY Work\2024 vision\SoftProb\NET\APIS\Softprob\Softprob.Persistence\obj\Debug\net8.0\refint\Softprob.Persistence.dll
+D:\MY Work\2024 vision\SoftProb\NET\APIS\Softprob\Softprob.Persistence\obj\Debug\net8.0\Softprob.Persistence.pdb
+D:\MY Work\2024 vision\SoftProb\NET\APIS\Softprob\Softprob.Persistence\obj\Debug\net8.0\ref\Softprob.Persistence.dll

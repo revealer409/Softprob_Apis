@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "DkMjC/D+atGQ9qlsbVtHlrax4yyfSwN80Kx2g5qWlrY6lTGS5sdnJAVuMm6mCuUmcRshy3iW9yY0CCei/zOOQg==",
+  "success": true,
+  "projectFilePath": "D:\\MY Work\\2024 vision\\SoftProb\\NET\\APIS\\Softprob\\Softprob.Application\\Softprob.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\me_ka\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\me_ka\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
+    "C:\\Users\\me_ka\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\me_ka\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\me_ka\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

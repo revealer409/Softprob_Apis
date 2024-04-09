@@ -1,0 +1,11 @@
+D:\MY Work\2024 vision\SoftProb\NET\APIS\Softprob\Softprob.Contracts\bin\Debug\net8.0\Softprob.Contracts.deps.json
+D:\MY Work\2024 vision\SoftProb\NET\APIS\Softprob\Softprob.Contracts\bin\Debug\net8.0\Softprob.Contracts.dll
+D:\MY Work\2024 vision\SoftProb\NET\APIS\Softprob\Softprob.Contracts\bin\Debug\net8.0\Softprob.Contracts.pdb
+D:\MY Work\2024 vision\SoftProb\NET\APIS\Softprob\Softprob.Contracts\obj\Debug\net8.0\Softprob.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY Work\2024 vision\SoftProb\NET\APIS\Softprob\Softprob.Contracts\obj\Debug\net8.0\Softprob.Contracts.AssemblyInfoInputs.cache
+D:\MY Work\2024 vision\SoftProb\NET\APIS\Softprob\Softprob.Contracts\obj\Debug\net8.0\Softprob.Contracts.AssemblyInfo.cs
+D:\MY Work\2024 vision\SoftProb\NET\APIS\Softprob\Softprob.Contracts\obj\Debug\net8.0\Softprob.Contracts.csproj.CoreCompileInputs.cache
+D:\MY Work\2024 vision\SoftProb\NET\APIS\Softprob\Softprob.Contracts\obj\Debug\net8.0\Softprob.Contracts.dll
+D:\MY Work\2024 vision\SoftProb\NET\APIS\Softprob\Softprob.Contracts\obj\Debug\net8.0\refint\Softprob.Contracts.dll
+D:\MY Work\2024 vision\SoftProb\NET\APIS\Softprob\Softprob.Contracts\obj\Debug\net8.0\Softprob.Contracts.pdb
+D:\MY Work\2024 vision\SoftProb\NET\APIS\Softprob\Softprob.Contracts\obj\Debug\net8.0\ref\Softprob.Contracts.dll
