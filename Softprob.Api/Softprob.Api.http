@@ -1,6 +1,6 @@
 @Softprob.Api_HostAddress = http://localhost:5293
 
-GET {{Softprob.Api_HostAddress}}/weatherforecast/
+GET {{Softprob.Api_HostAddress}}/Project/
 Accept: application/json
 
 ###

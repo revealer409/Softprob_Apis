@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Middlewares\ExceptionHandlerMiddleware.cs~RF3eca66.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.0-preview.2.24128.4">
       <PrivateAssets>all</PrivateAssets>
@@ -20,7 +24,6 @@
 
   <ItemGroup>
     <Folder Include="Filters\" />
-    <Folder Include="Middlewares\" />
     <Folder Include="Exceptions\" />
   </ItemGroup>
 
